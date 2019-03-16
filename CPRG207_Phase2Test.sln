@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG207_Phase2Test", "CPRG207_Phase2Test\CPRG207_Phase2Test.csproj", "{49ACCA97-BFC0-4D63-B482-29F3B08E8BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductClasses", "ProductClasses\ProductClasses.csproj", "{D091A7F8-577B-4C51-8D70-7F00275A8BE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpertsClasses", "ProductClasses\TravelExpertsClasses.csproj", "{D091A7F8-577B-4C51-8D70-7F00275A8BE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

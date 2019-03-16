@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProductClasses
+namespace TravelExpertsClasses
 {
     /// <summary>
     /// Product class object for the TravelExperts database 
