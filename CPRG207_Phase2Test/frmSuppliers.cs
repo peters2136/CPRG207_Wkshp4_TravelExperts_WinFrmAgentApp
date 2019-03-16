@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CPRG207_Phase2Test
 {
-    public partial class Form1 : Form
+    public partial class frmSuppliers : Form
     {
-        public Form1()
+        public frmSuppliers()
         {
             InitializeComponent();
         }
